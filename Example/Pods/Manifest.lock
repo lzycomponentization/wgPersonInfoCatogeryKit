@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (25)
+  - wgPersonInfoCatogeryKit (1):
+    - CTMediator
+
+DEPENDENCIES:
+  - wgPersonInfoCatogeryKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  wgPersonInfoCatogeryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  wgPersonInfoCatogeryKit: 86a53549cc9ae78e0a2677a304d37d4743bc7bac
+
+PODFILE CHECKSUM: 59e5aeee32eb6a9e10289ef390192f2c634af42c
+
+COCOAPODS: 1.5.3
